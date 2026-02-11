@@ -1,0 +1,17 @@
+{
+        "id": "Blocks-Orange-Deck-Lucky-Charm-(Does nothing)",
+        "name": "Blocks orange deck lucky charm",
+        "author": ["BlockAttack"],
+        "description": "Does nothing but makes block feel like he gets better orange deck packs",
+        "prefix": "wimf",
+        "main_file": "main.lua",
+        "priority": 0,
+        "badge_text_colour": "E0BA74",
+        "display_name": "Blocks orange deck lucky charm",
+        "version": "1.0.0",
+        "dependencies": [
+                "Steamodded (>=1.*)",
+                "Lovely (>=0.6)"
+        ],
+        "conflicts": []
+}
